@@ -1,0 +1,45 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 1, 2022, 11:33:55 AM
+    Author     : LENOVO
+*/
+
+html{
+    
+}
+
+body{
+    /*background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: cover;
+    opacity:0.1;*/
+}
+
+h1{
+text-align: center;
+font-size: 40px;
+font-weight: bolder;
+font-family: 'Poppins', sans-serif;
+color: #655D8A;
+}
+
+strong{
+color: #4C0027;
+font-weight: bolder;
+}
+strong a{
+    text-decoration: none;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+footer span{
+    font-family: 'Poppins', sans-serif;
+    /*font-family: 'Supermercado One', cursive;*/
+}
